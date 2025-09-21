@@ -17,5 +17,5 @@ This Python script is designed to upload hash values to VirusTotal in batches. I
 - `requests` library
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source.
 
